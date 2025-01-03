@@ -20,9 +20,13 @@ Este proyecto genera una aplicacion que responde a consultas sobre peliculas. Si
 Para hacer uso de esta aplicacion puedes utilizar el siguente link [LINK API](https://api-peliculas-pnfg.onrender.com/docs) o clonar el repositorio en tu computadora local. 
 
 ### Requisitos
-fastapi
-uvicorn
-scikit-learn
-scipy
-pandas
-numpy
+Para que la API funcione correctamente deberas tener instaladas las siguientes aplicaciones Python:
+#### fastapi, uvicorn, scikit-learn, scipy, pandas, numpy
+
+### Pasos de instalación: 
+Realizar los siguientes pasos desde una terminal: 
+1. Clonar el repositorio: `git clone [https://github.com/usuario/proyecto-ventas-ropa.git](https://github.com/LauchaLogico/T1_Simontacchi.git)`
+2. Creo un entorno virtual: virtualenv nombre_del_entorno
+3. Activo el entorno virtual: nombre_del_entorno\Scripts\activate
+4. Instalo las aplicaciones: pip install -r requirements.txt
+5. Para correr el servidor de uvicorn: uvicorn main:app --reload  
