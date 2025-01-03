@@ -21,12 +21,15 @@ Para hacer uso de esta aplicacion puedes utilizar el siguente link [LINK API](ht
 
 ### Requisitos
 Para que la API funcione correctamente deberas tener instaladas las siguientes aplicaciones Python:
-#### fastapi, uvicorn, scikit-learn, scipy, pandas, numpy
+#### _fastapi, uvicorn, scikit-learn, scipy, pandas, numpy_
 
 ### Pasos de instalación: 
 Realizar los siguientes pasos desde una terminal: 
-1. Clonar el repositorio: `git clone [https://github.com/usuario/proyecto-ventas-ropa.git](https://github.com/LauchaLogico/T1_Simontacchi.git)`
+1. Clonar el repositorio: git clone https://github.com/LauchaLogico/T1_Simontacchi.git
 2. Creo un entorno virtual: virtualenv nombre_del_entorno
 3. Activo el entorno virtual: nombre_del_entorno\Scripts\activate
 4. Instalo las aplicaciones: pip install -r requirements.txt
-5. Para correr el servidor de uvicorn: uvicorn main:app --reload  
+5. Para correr el servidor de uvicorn: uvicorn main:app --reload
+6. se te proporcionará en enlace, "http://..." hacer click en el o copiar y pegar en un navegador y agregar "/docs" al final
+
+
