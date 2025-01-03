@@ -37,6 +37,6 @@ Realizar los siguientes pasos desde una terminal:
 - `requerimens.txt`: archivo que contiene las librerias utilizadas en el código fuente.
 
 ### Autor:
-Laucha Logico - Contacto: [LinkedIn](www.linkedin.com/in/lautaro-simontacchi-75b77580).
+Laucha Logico - Contacto: [LinkedIn](www.linkedin.com/in/lautaro-simontacchi-75b77580). [Instagram](https://www.instagram.com/laucha_logico/)
 
 
