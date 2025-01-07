@@ -31,6 +31,7 @@ Realizar los siguientes pasos desde una terminal:
 ### Estructura
 - `Dataset/`: Carpeta que ontiene los archivos de datos utilizados para realizar las consultas.
 - `notebooks/`: Jupyter notebooks con el análisis.
+- `Informe/`: Informe detallado de los datos y elproyecto.
 - `main.py`: Código fuente.
 - `reports/`: Informes y visualizaciones.
 - `README.md`: El archivo que estás leyendo.
